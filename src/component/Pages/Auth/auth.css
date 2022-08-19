@@ -1,0 +1,17 @@
+.auth > h1 {
+  margin: 50px 0;
+  text-align: center;
+  color: var(--blue);
+  font-size: 2.5rem;
+  font-family: var(--cursive);
+}
+
+.auth__form {
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.auth__inputs {
+  margin-bottom: 15px;
+}
